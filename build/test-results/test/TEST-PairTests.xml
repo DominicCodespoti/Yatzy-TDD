@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PairTests" tests="7" skipped="0" failures="0" errors="0" timestamp="2019-08-27T22:54:17" hostname="C02Y308YJG5J" time="0.001">
+  <properties/>
+  <testcase name="sumOfPairs[0]" classname="PairTests" time="0.0"/>
+  <testcase name="sumOfPairs[1]" classname="PairTests" time="0.0"/>
+  <testcase name="sumOfPairs[2]" classname="PairTests" time="0.0"/>
+  <testcase name="sumOfPairs[3]" classname="PairTests" time="0.0"/>
+  <testcase name="sumOfPairs[4]" classname="PairTests" time="0.0"/>
+  <testcase name="sumOfPairs[5]" classname="PairTests" time="0.0"/>
+  <testcase name="sumOfPairs[6]" classname="PairTests" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

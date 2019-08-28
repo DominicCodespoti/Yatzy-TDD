@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SmallStraightTests" tests="3" skipped="0" failures="0" errors="0" timestamp="2019-08-27T22:54:17" hostname="C02Y308YJG5J" time="0.0">
+  <properties/>
+  <testcase name="sumOfSmallStraight[0]" classname="SmallStraightTests" time="0.0"/>
+  <testcase name="sumOfSmallStraight[1]" classname="SmallStraightTests" time="0.0"/>
+  <testcase name="sumOfSmallStraight[2]" classname="SmallStraightTests" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

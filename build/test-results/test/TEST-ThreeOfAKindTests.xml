@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ThreeOfAKindTests" tests="6" skipped="0" failures="0" errors="0" timestamp="2019-08-27T22:54:17" hostname="C02Y308YJG5J" time="0.001">
+  <properties/>
+  <testcase name="sumOfThreeOfAKind[0]" classname="ThreeOfAKindTests" time="0.0"/>
+  <testcase name="sumOfThreeOfAKind[1]" classname="ThreeOfAKindTests" time="0.0"/>
+  <testcase name="sumOfThreeOfAKind[2]" classname="ThreeOfAKindTests" time="0.001"/>
+  <testcase name="sumOfThreeOfAKind[3]" classname="ThreeOfAKindTests" time="0.0"/>
+  <testcase name="sumOfThreeOfAKind[4]" classname="ThreeOfAKindTests" time="0.0"/>
+  <testcase name="sumOfThreeOfAKind[5]" classname="ThreeOfAKindTests" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

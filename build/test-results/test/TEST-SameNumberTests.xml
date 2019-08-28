@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SameNumberTests" tests="7" skipped="0" failures="0" errors="0" timestamp="2019-08-27T22:54:17" hostname="C02Y308YJG5J" time="0.005">
+  <properties/>
+  <testcase name="testSumOfTwoFoursIsEight" classname="SameNumberTests" time="0.002"/>
+  <testcase name="testScoreSheetHoldsDiceValues" classname="SameNumberTests" time="0.001"/>
+  <testcase name="testSumOfAllOnes" classname="SameNumberTests" time="0.0"/>
+  <testcase name="testSumOfAllTwos" classname="SameNumberTests" time="0.0"/>
+  <testcase name="testSumOfAllThrees" classname="SameNumberTests" time="0.0"/>
+  <testcase name="testSumOfAllSixesWithNoSixesReturnsZero" classname="SameNumberTests" time="0.0"/>
+  <testcase name="testSumOfAllFivesWithNoSixesReturnsZero" classname="SameNumberTests" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

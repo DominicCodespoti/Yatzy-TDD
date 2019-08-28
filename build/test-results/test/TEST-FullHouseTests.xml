@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="FullHouseTests" tests="7" skipped="0" failures="0" errors="0" timestamp="2019-08-27T22:54:17" hostname="C02Y308YJG5J" time="0.005">
+  <properties/>
+  <testcase name="sumOfFullHouse[0]" classname="FullHouseTests" time="0.003"/>
+  <testcase name="sumOfFullHouse[1]" classname="FullHouseTests" time="0.0"/>
+  <testcase name="sumOfFullHouse[2]" classname="FullHouseTests" time="0.0"/>
+  <testcase name="sumOfFullHouse[3]" classname="FullHouseTests" time="0.001"/>
+  <testcase name="sumOfFullHouse[4]" classname="FullHouseTests" time="0.0"/>
+  <testcase name="sumOfFullHouse[5]" classname="FullHouseTests" time="0.001"/>
+  <testcase name="sumOfFullHouse[6]" classname="FullHouseTests" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
